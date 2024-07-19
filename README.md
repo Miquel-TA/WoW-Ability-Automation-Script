@@ -11,6 +11,12 @@ I recommend using another OCR scanner.
 
 For debugging purposes, the processed images are stored into "screenshots".
 
+## Images
+
+![image](https://github.com/user-attachments/assets/9aa4d798-335f-4f86-9cbf-d0519d867d68)
+![image](https://github.com/user-attachments/assets/6e173ddb-1a93-40a7-a888-278d2e501360)
+
+
 ## Features
 
 - **Selectable Area for Monitoring:** Users can click to select a rectangle on their screen where the script will monitor for ability recommendations from Hekili.
