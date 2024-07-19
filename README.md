@@ -28,6 +28,7 @@ For debugging purposes, the processed images are stored into "screenshots".
 
 - Python 3.x
 - Required Python libraries: `tkinter`, `PIL`, `numpy`, `pytesseract`, `pyautogui`, `time`, `keyboard`, `random`, `cv2`
+- Required Tesseract binaries: https://github.com/UB-Mannheim/tesseract/wiki
 
 ## Usage Instructions
 
