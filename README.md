@@ -1,0 +1,1 @@
+# wow-ocr-hekili-auto-rotation
